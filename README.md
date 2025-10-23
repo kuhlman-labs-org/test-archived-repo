@@ -1,2 +1,3 @@
-# test-archived-repo
-Archived repository (will be archived after creation)
+# Test Repository
+
+This is a basic test repository.
